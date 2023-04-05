@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a student at 42 Lausanne.</br>
+[Here are all the projects details](https://github.com/ndcnf/42Lausanne)
 
 <!--
 **ndcnf/ndcnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
